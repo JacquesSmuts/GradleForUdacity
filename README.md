@@ -1,3 +1,8 @@
+
+Forked from here:
+
+https://github.com/udacity/ud867/tree/master/FinalProject
+
 # Gradle for Android and Java Final Project
 
 In this project, you will create an app with multiple flavors that uses
